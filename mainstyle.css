@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:Thin');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:Light');
+
+body {
+    background-color:#000000;
+    /*background-image: url("./Images/iconpatterns/icons-asphalt.jpg");
+    background-repeat: repeat;*/
+}
+
+h1 {
+    font-family: 'Roboto', serif;
+    letter-spacing: 5px;
+    font-weight: 100;
+    text-align:center;
+    color:#00AFFA;
+    font-size: 40pt;
+}
+h2 {
+  font-family: "Source Code Pro",monospace;
+  letter-spacing: 1px;
+  color:#FFFFFF;
+  font-size: 15pt;
+  margin: 25px 50px 5px;
+}
+pre {
+  font-family: "Source Code Pro",monospace;
+  letter-spacing: 1px;
+  color:#FFFFFF;
+  font-size: 10pt;
+  margin: 25px 50px 5px;
+}
+p {
+  font-family: "Source Code Pro",monospace;
+  letter-spacing: 1px;
+  color:#FFFFFF;
+  font-size: 10pt;
+  margin: 25px 50px 5px;
+}
+hr {
+  color:#FFFFFF;
+  background-color:#FFFFFF;
+  height: 3px;
+}

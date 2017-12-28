@@ -1,0 +1,6 @@
+--- name/poem1.txt	2017-12-27 20:56:44.000000000 -0600
++++ name2/poem1.txt	2017-12-27 20:58:36.000000000 -0600
+@@ -1,2 +1,2 @@
+ to be or not to be
+-blah
++that is the question
